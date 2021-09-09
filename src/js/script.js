@@ -20,3 +20,9 @@ const copia = cloneDeep(obj);
 console.log(copia);
 
 console.log("dana hermosa");
+
+const thatnigga = function () {
+  console.log("skere");
+};
+
+thatnigga();
