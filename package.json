@@ -1,25 +1,14 @@
 {
   "name": "modulos",
   "version": "1.0.0",
-  "description": "una pendeja pendejada hecha por un pendejo inútil",
   "main": "index.js",
+  "repository": "https://github.com/YuriAllexei/netlify-parcel-prueba.git",
+  "author": "YuriAllexei <yurialexei@ciencias.unam.mx>",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "parcel build src/index.html",
-    "dev": "parcel src/index.html"
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/YuriAllexei/netlify-parcel-prueba.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/YuriAllexei/netlify-parcel-prueba/issues"
-  },
-  "homepage": "https://github.com/YuriAllexei/netlify-parcel-prueba#readme",
-  "dependencies": {},
+  "license": "MIT",
   "devDependencies": {
     "parcel-bundler": "^1.12.5"
   }
