@@ -26,3 +26,5 @@ const thatnigga = function () {
 };
 
 thatnigga();
+
+console.log("Boooom");
