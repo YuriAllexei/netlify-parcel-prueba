@@ -10,7 +10,8 @@
   },
   "license": "MIT",
   "dependencies": {
-    "lodash-es": "^4.17.15"
+    "lodash-es": "^4.17.15",
+    "p5": "^1.4.0"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.5"
